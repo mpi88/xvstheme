@@ -1,0 +1,692 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/images/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/images/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/images/favicon/site.webmanifest">
+  <link rel="icon" href="/favicon.ico">
+
+  <title>Premium XVideoSharing Script Themes | Custom and Stylish Designs</title>
+  <meta name="description" content="Explore a wide range of premium XVideoSharing script themes crafted by experts. Our themes offer custom designs and stylish layouts, perfectly tailored for your adult video sharing website">
+  <meta name="keywords" content="XVideoSharing script themes, premium themes, custom designs, stylish layouts, file sharing, adult video sharing, website themes, video hosting scripts, professional templates, responsive designs." />
+  <link rel="canonical" href="https://xvstheme.com/">
+
+  <link rel="stylesheet" id="line-awesome-css" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="bootstrap-css" href="/assets/css/bootstrap.min.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="owl-carousel-css" href="/assets/css/owl.carousel.min.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="owl-theme-css" href="/assets/css/owl.theme.default.min.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="animate-css" href="/assets/css/animate.min.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="smooth-scrollbar-css" href="/assets/css/smooth-scrollbar.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="lightbox-css" href="/assets/css/lightbox.min.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="style-css" href="/assets/css/style.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="unit-test-css" href="/assets/css/unit-test.css?ver=6.2.2" media="all" />
+  <link rel="stylesheet" id="responsive-css" href="/assets/css/responsive.css?ver=6.2.2" media="all" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <script src="/assets/js/jquery.js" id="jquery-core-js"></script>
+  <script src="https://www.google.com/recaptcha/api.js?hl=en" async defer></script>
+</head>
+
+<body class="home5-page">
+  <!-- <video class="body-overlay" muted autoplay loop>
+        <source src="/assets/images/video5.mp4" type="video/mp4">
+</video> -->
+<!-- <div class="backlines">
+  <span></span>
+</div> -->
+  <div class="page-loader">
+    <div class="bounceball"></div>
+  </div>
+  <span class="icon-menu">
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </span>
+  <div class="responsive-sidebar-menu">
+    <div class="overlay"></div>
+    <div class="sidebar-menu-inner">
+      <div class="menu-wrap">
+        <p>Menu</p>
+        <ul class="dmenu scroll-nav-responsive d-flex">
+          <li>
+            <a class="scroll-to" href="#home">
+              <i class="las la-home"></i> <span>Home</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="#about">
+              <i class="lar la-user"></i> <span>About me</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="#services">
+              <i class="las la-stream"></i> <span>Services</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="#portfolio">
+              <i class="las la-grip-vertical"></i> <span>Portfolio</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="#testimonial">
+              <i class="lar la-comment"></i> <span>Testimonial</span>
+            </a>
+          </li>
+          <li>
+            <a class="scroll-to" href="#contact">
+              <i class="las la-envelope"></i> <span>Contact</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="sidebar-social">
+        <!-- <p>Social</p>
+        <ul class="social-links d-flex align-items-center">
+          <li>
+            <a href="#"><i class="lab la-instagram"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="lab la-twitter"></i></a>
+          </li>
+          <li>
+            <a href="#"><i class="lab la-dribbble"></i></a>
+          </li>
+        </ul> -->
+        <a class="me-1" href="https://t.me/maks_palamar"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" xml:space="preserve">
+            <path d="M0 12C0 3.3 3.3 0 12 0s12 3.3 12 12-3.3 12-12 12S0 20.7 0 12" fill="#00abe8" />
+            <path d="m17.5 6.5-11.7 5c-.2.1-.3.4-.3.6 0 .1.1.2.3.3l2.1.6c.7.2 1.5.1 2.1-.3l4.9-3.4c.1 0 .2 0 .2.1v.2l-3.8 3.6c-.4.4-.4.9 0 1.3l.1.1 4.1 2.7c.4.3 1 .2 1.3-.3.1-.1.1-.2.1-.3l1.6-9.3c.1-.4-.2-.8-.6-.9h-.4z"
+              fill="#fff" />
+          </svg></a>
+        <a href="whatsapp://send?phone=380988449714"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" xml:space="preserve">
+            <style>
+              .st1 {
+                fill: #fff
+              }
+            </style>
+            <g id="Layer_2_1_">
+              <g id="Layer_2-2_1_">
+                <g id="Whatups_1_">
+                  <path d="M0 12C0 3.3 3.3 0 12 0s12 3.3 12 12-3.3 12-12 12S0 20.7 0 12" fill="#00cd4c" />
+                  <path class="st1"
+                    d="m5.4 18.7.5-1.6c.2-.5.3-1 .5-1.5.1-.2.1-.5 0-.7-1.3-2.3-.9-5.2.8-7.2 1.3-1.4 3.1-2.2 5.1-2.1 1.4 0 2.8.6 3.9 1.6 1 .9 1.7 2.1 2 3.4.2 1.1.2 2.2-.1 3.2-.4 1.3-1.2 2.5-2.3 3.3-1.5 1.1-3.4 1.6-5.2 1.2-.6-.1-1.1-.3-1.6-.6h-.3l-2.9.9-.4.1zM7 17.1l2-.6h.2c.3.1.5.3.8.4 1.1.5 2.3.6 3.4.2 1.4-.4 2.5-1.3 3.2-2.5 1.4-2.4.7-5.6-1.7-7.1-2.1-1.3-4.9-1-6.7.8-.7.7-1.2 1.6-1.4 2.6-.3 1.4-.1 2.8.7 3.9.1.2.1.5 0 .7-.1.5-.3 1-.5 1.6z" />
+                  <path class="st1"
+                    d="M15.3 13.8c0 .5-.3.9-.7 1.1-.4.2-1 .3-1.5.1-.4-.2-.9-.3-1.3-.6-.6-.3-1.1-.7-1.5-1.2-.5-.5-.9-1.1-1.2-1.7-.2-.4-.4-.9-.3-1.4 0-.5.3-1 .7-1.3.1-.1.2-.1.3-.1h.4c.1 0 .2.1.2.2.1.3.2.5.3.8.1.3.1.3.2.5s.1.4 0 .6c-.1.1-.2.3-.3.4-.1.1-.1.2-.1.3.3.5.7 1 1.2 1.4.3.3.7.5 1.1.6.1.1.2.1.3 0l.5-.6c.1-.1.2-.2.3-.1l1.3.7c.1.2.1.3.1.3z" />
+                </g>
+              </g>
+            </g>
+          </svg></a>
+      </div>
+    </div>
+  </div>
+  <main class="main">
+    <div id="smooth-wrapper">
+      <div id="smooth-content">
+        <div data-elementor-type="wp-page" data-elementor-id="207" class="elementor elementor-207">
+          <section class="elementor-section elementor-top-section elementor-element elementor-element-4008bb0 elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="4008bb0" data-element_type="section" id="home">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56d535e" data-id="56d535e" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-d8d1695 elementor-widget elementor-widget-drakehero" data-id="d8d1695" data-element_type="widget" data-widget_type="drakehero.default">
+                    <div class="elementor-widget-container">
+                      <section class="hero-section">
+                        <div class="custom-container">
+                          <div class="hero-content content-width">
+                            <div class="section-header">
+                              <p><a href="/"><img src="/assets/images/logo.svg" alt=""></a></p><br>
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">Hi! I am <span>Max</span>,<br> Web Designer and Developer</h1>
+                            </div>
+                            <p class="scroll-animation" style="font-size: 1.1em;" data-animation="fade_from_bottom">I design and code premium themes for xfile\xvideosharing script and i love what i do. Just simple like that!</p>
+                            <a href="#portfolio" class="go-to-project-btn scroll-to scroll-animation" data-animation="rotate_up">
+                              <img decoding="async" src="/assets/images/round-text.png" alt="Rounded Text">
+                              <i class="las la-arrow-down"></i>
+                            </a>
+                            <div class="facts d-flex">
+                              <div class="left scroll-animation" data-animation="fade_from_left">
+                                <h1>5+</h1>
+                                <p>Years of Experience</p>
+                              </div>
+                              <div class="right scroll-animation" data-animation="fade_from_right">
+                                <h1>25+</h1>
+                                <p>projects completed</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-section elementor-top-section elementor-element elementor-element-51b78d5 elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="51b78d5" data-element_type="section" id="about">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0f928fc" data-id="0f928fc" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-089591c elementor-widget elementor-widget-drakeabout" data-id="089591c" data-element_type="widget" data-widget_type="drakeabout.default">
+                    <div class="elementor-widget-container">
+                      <section class="about-area">
+                        <div class="custom-container">
+                          <div class="about-content content-width">
+                            <div class="section-header">
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">Every great design begin with<br> an even <span>better story</span></h1>
+                            </div>
+                            <p class="scroll-animation" data-animation="fade_from_bottom">Over the past 10 years, I've been dedicated to the art of web development, honing my skills and crafting digital wonders.
+
+
+Over the last 5 years, I have been working with the xfile\xvideosharing script, creating numerous themes for it. This website is dedicated to showcasing my works to you.
+
+                            </p>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-section elementor-top-section elementor-element elementor-element-e2fc89f elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="e2fc89f" data-element_type="section" id="services">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-043c284" data-id="043c284" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-cf421ee elementor-widget elementor-widget-drakeservices" data-id="cf421ee" data-element_type="widget" data-widget_type="drakeservices.default">
+                    <div class="elementor-widget-container">
+                      <section class="services-area">
+                        <div class="custom-container">
+                          <div class="services-content content-width">
+                            <div class="section-header">
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">What i can <span>Do for You?</span></h1>
+                            </div>
+                            <div class="services-items">
+                              <div class="service-item scroll-animation" data-animation="fade_from_bottom">
+                                <i class="las la-bezier-curve"></i>
+                                <h2>Design and mockups</h2>
+                                <p>I will bring unique ideas to life by creating digital mockups using Figma or Photoshop.</p>
+                              </div>
+                              <div class="service-item scroll-animation" data-animation="fade_from_bottom">
+                                <i class="las la-code"></i>
+                                <h2>Development</h2>
+                                <p>Coding and implementing a complete theme for your xfile\xvideosharing script.</p>
+                              </div>
+                              <div class="service-item scroll-animation" data-animation="fade_from_bottom">
+                                <i class="las la-rocket"></i>
+                                <h2>Support</h2>
+                                <p>Experience seamless support and expert assistance for your video and file sharing platform.</p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-section elementor-top-section elementor-element elementor-element-2090be3 elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="2090be3" data-element_type="section" id="portfolio">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-77d49c0" data-id="77d49c0" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-ab189bd elementor-widget elementor-widget-drakeportfolio" data-id="ab189bd" data-element_type="widget" data-widget_type="drakeportfolio.default">
+                    <div class="elementor-widget-container">
+                      <section class="portfolio-area">
+                        <div class="custom-container">
+                          <div class="portfolio-content content-width">
+                            <div class="section-header">
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">Featured <span>Projects</span></h1>
+                            </div>
+                            <div class="row portfolio-items">
+                              <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
+                                <div class="portfolio-item portfolio-full">
+                                  <div class="portfolio-item-inner">
+                                    <a href="/assets/images/project.png" data-lightbox="example-1">
+                                      <img decoding="async" src="/assets/images/project-cover.png" alt="Portfolio">
+                                    </a>
+                                    <ul class="portfolio-categories">
+                                      <li>
+                                        <a>XVS</a>
+                                      </li>
+                                      <li>
+                                        <a>Design</a>
+                                      </li>
+                                      <li>
+                                        <a>For sale</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <h2><a href="https://ztreamhub.com/" rel="nofollow">XVS Template</a></h2>
+                                </div>
+                              </div>
+                              <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
+                                <div class="portfolio-item portfolio-full">
+                                  <div class="portfolio-item-inner">
+                                    <a href="/assets/images/portfolio1b.png" data-lightbox="example-1">
+                                      <img decoding="async" src="/assets/images/portfolio1.png" alt="Portfolio">
+                                    </a>
+                                    <ul class="portfolio-categories">
+                                      <li>
+                                        <a>XVS</a>
+                                      </li>
+                                      <li>
+                                        <a>Design</a>
+                                      </li>
+                                      <li>
+                                        <a>Premium</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <h2><a href="https://ztreamhub.com/" rel="nofollow">ZtreamHub</a></h2>
+                                </div>
+                              </div>
+                              <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
+                                <div class="portfolio-item portfolio-full">
+                                  <div class="portfolio-item-inner">
+                                    <a href="/assets/images/portfolio2b.png" data-lightbox="example-1">
+                                      <img decoding="async" src="/assets/images/portfolio2.png" alt="Portfolio">
+                                    </a>
+                                    <ul class="portfolio-categories">
+                                      <li>
+                                        <a>XVS</a>
+                                      </li>
+                                      <li>
+                                        <a>Design</a>
+                                      </li>
+                                      <li>
+                                        <a>Premium</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <h2><a href="https://streamhide.com" rel="nofollow">StreamHide</a></h2>
+                                </div>
+                              </div>
+                              <div class="col-md-6 scroll-animation" data-animation="fade_from_right">
+                                <div class="portfolio-item portfolio-full">
+                                  <div class="portfolio-item-inner">
+                                    <a href="/assets/images/portfolio3.png" data-lightbox="example-1">
+                                      <img decoding="async" src="/assets/images/portfolio3.png" alt="Portfolio">
+                                    </a>
+                                    <ul class="portfolio-categories">
+                                      <li>
+                                        <a>XVS</a>
+                                      </li>
+                                      <li>
+                                        <a>Design</a>
+                                      </li>
+                                      <li>
+                                        <a>Premium</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <h2><a href="https://supervideo.tv/" rel="nofollow">Supervideo</a></h2>
+                                </div>
+                              </div>
+                              <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
+                                <div class="portfolio-item portfolio-full">
+                                  <div class="portfolio-item-inner">
+                                    <a href="/assets/images/portfolio4.png" data-lightbox="example-1">
+                                      <img decoding="async" src="/assets/images/portfolio4.png" alt="Portfolio">
+                                    </a>
+                                    <ul class="portfolio-categories">
+                                      <li>
+                                        <a>XVS</a>
+                                      </li>
+                                      <li>
+                                        <a>Design</a>
+                                      </li>
+                                      <li>
+                                        <a>Premium</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <h2><a href="https://streamsb.com/" rel="nofollow">StreamSb</a></h2>
+                                </div>
+                              </div>
+                              <div class="col-md-12 scroll-animation" data-animation="fade_from_bottom">
+                                <div class="portfolio-item portfolio-full">
+                                  <div class="portfolio-item-inner">
+                                    <a href="/assets/images/portfolio5.png" data-lightbox="example-1">
+                                      <img decoding="async" src="/assets/images/portfolio5.png" alt="Portfolio">
+                                    </a>
+                                    <ul class="portfolio-categories">
+                                      <li>
+                                        <a>XVS</a>
+                                      </li>
+                                      <li>
+                                        <a>Figma</a>
+                                      </li>
+                                      <li>
+                                        <a>Coding</a>
+                                      </li>
+                                    </ul>
+                                  </div>
+                                  <h2><a href="https://upstream.to/" rel="nofollow">Upstream</a></h2>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-section elementor-top-section elementor-element elementor-element-449627b elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="449627b" data-element_type="section" id="testimonial">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-78a9b04" data-id="78a9b04" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-09ec53b elementor-widget elementor-widget-draketestimonial" data-id="09ec53b" data-element_type="widget" data-widget_type="draketestimonial.default">
+                    <div class="elementor-widget-container">
+                      <section class="testimonial-area">
+                        <div class="custom-container">
+                          <div class="testimonial-content content-width">
+                            <div class="section-header">
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">Trusted by <span>our Clients</span></h1>
+                            </div>
+                            <div class="testimonial-slider-wrap scroll-animation" data-animation="fade_from_bottom">
+                              <div class="owl-carousel testimonial-slider owl-theme">
+                                <div class="testimonial-item">
+                                  <div class="testimonial-item-inner">
+                                    <div class="author d-flex align-items-center">
+                                      <img decoding="async" src="/assets/images/testimonial-1.jpg" alt="portfolio">
+                                      <div class="right">
+                                        <h3>Leo King</h3>
+                                        <p class="designation">consumer</p>
+                                      </div>
+                                    </div>
+                                    <p>“A Developer who exudes creativity, professionalism, and mastery of code, surpassing all my expectations. Delivering high-quality products at a flexible price. Highly recommended!”</p>
+                                    <!-- <a href="#" class="project-btn">Project</a> -->
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="testimonial-footer-nav">
+                                <div class="testimonial-nav d-flex align-items-center">
+                                  <button class="prev"><i class="las la-angle-left"></i></button>
+                                  <div id="testimonial-slide-count"></div>
+                                  <button class="next"><i class="las la-angle-right"></i></button>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section style="display:none" class="elementor-section elementor-top-section elementor-element elementor-element-74f9fe7 elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="74f9fe7" data-element_type="section" id="pricing">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b698af7" data-id="b698af7" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-687345c elementor-widget elementor-widget-drakepricing" data-id="687345c" data-element_type="widget" data-widget_type="drakepricing.default">
+                    <div class="elementor-widget-container">
+                      <section class="pricing-area">
+                        <div class="custom-container">
+                          <div class="pricing-content content-width">
+                            <div class="section-header">
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">My <span>Pricing</span></h1>
+                            </div>
+                            <div class="pricing-table-items">
+                              <div class="row">
+                                <div class="col-md-6 scroll-animation" data-animation="fade_from_left">
+                                  <div class="pricing-table">
+                                    <div class="pricing-table-header">
+                                      <div class="top d-flex justify-content-between align-items-start">
+                                        <h4>basic</h4>
+                                        <p class="text-right">Have design ready to build?<br>or small budget</p>
+                                      </div>
+                                      <h1>$600 <span></h1>
+                                    </div>
+                                    <ul class="feature-lists">
+                                      <li>Need your mockup or template for edit.</li>
+                                      <li>Coding and implementation using your script.</li>
+                                      <li>Support 6 months</li>
+                                    </ul>
+                                    <a href="#contact" class="theme-btn">Start now</a>
+                                  </div>
+                                </div>
+                                <div class="col-md-6 scroll-animation" data-animation="fade_from_right">
+                                  <div class="pricing-table">
+                                    <div class="pricing-table-header">
+                                      <div class="top d-flex justify-content-between align-items-start">
+                                        <h4>Full stack</h4>
+                                        <p class="text-right">Not have any design?<br> Leave its for me</p>
+                                      </div>
+                                      <h1>$1200</h1>
+                                    </div>
+                                    <ul class="feature-lists">
+                                      <li>Don't need mockup or anything</li>
+                                      <li>Design with Figma or Photoshop.</li>
+                                      <li>Coding and implementation using your script.</li>
+                                      <li>Your project alway be priority</li>
+                                      <li>Support 12 months</li>
+                                    </ul>
+                                    <a href="#contact" class="theme-btn">Start now</a>
+                                  </div>
+                                </div>
+                              </div>
+                              <div class="scroll-animation" data-animation="fade_from_bottom">
+                                <p class="info">Prices are typically standard but can vary based on your specific requirements and the modifications you choose to implement.</p>
+                                <h5>Don't know what to choose or have your own offer? <a href="#contact">Contact Us</a></h5>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <br><br>
+          <section class="elementor-section elementor-top-section elementor-element elementor-element-ad41ad6 elementor-section-full_width page-section scroll-to-page elementor-section-height-default elementor-section-height-default"
+            data-id="ad41ad6" data-element_type="section" id="contact">
+            <div class="elementor-container elementor-column-gap-no">
+              <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a93c64b" data-id="a93c64b" data-element_type="column">
+                <div class="elementor-widget-wrap elementor-element-populated">
+                  <div class="elementor-element elementor-element-60dfddb elementor-widget elementor-widget-drakecontact" data-id="60dfddb" data-element_type="widget" data-widget_type="drakecontact.default">
+                    <div class="elementor-widget-container">
+                      <section class="contact-area">
+                        <div class="custom-container">
+                          <div class="contact-content content-width">
+                            <div class="section-header">
+                              <h1 class="scroll-animation" data-animation="fade_from_bottom">Let's Work <span>Together!</span></h1>
+                            </div>
+                            <div class="row">
+                              <div class="col-auto me-2">
+                                <h3 class="scroll-animation" data-animation="fade_from_bottom">m.palamarchuk1988@gmail.com</h3>
+                              </div>
+                              <div class="col-auto">
+                                <div class="scroll-animation" data-animation="fade_from_bottom">
+                                  <a class="me-1" href="https://t.me/maks_palamar"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" xml:space="preserve">
+                                      <path d="M0 12C0 3.3 3.3 0 12 0s12 3.3 12 12-3.3 12-12 12S0 20.7 0 12" fill="#00abe8" />
+                                      <path d="m17.5 6.5-11.7 5c-.2.1-.3.4-.3.6 0 .1.1.2.3.3l2.1.6c.7.2 1.5.1 2.1-.3l4.9-3.4c.1 0 .2 0 .2.1v.2l-3.8 3.6c-.4.4-.4.9 0 1.3l.1.1 4.1 2.7c.4.3 1 .2 1.3-.3.1-.1.1-.2.1-.3l1.6-9.3c.1-.4-.2-.8-.6-.9h-.4z"
+                                        fill="#fff" />
+                                    </svg></a>
+                                  <a href="whatsapp://send?phone=380988449714"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" xml:space="preserve">
+                                      <style>
+                                        .st1 {
+                                          fill: #fff
+                                        }
+                                      </style>
+                                      <g id="Layer_2_1_">
+                                        <g id="Layer_2-2_1_">
+                                          <g id="Whatups_1_">
+                                            <path d="M0 12C0 3.3 3.3 0 12 0s12 3.3 12 12-3.3 12-12 12S0 20.7 0 12" fill="#00cd4c" />
+                                            <path class="st1"
+                                              d="m5.4 18.7.5-1.6c.2-.5.3-1 .5-1.5.1-.2.1-.5 0-.7-1.3-2.3-.9-5.2.8-7.2 1.3-1.4 3.1-2.2 5.1-2.1 1.4 0 2.8.6 3.9 1.6 1 .9 1.7 2.1 2 3.4.2 1.1.2 2.2-.1 3.2-.4 1.3-1.2 2.5-2.3 3.3-1.5 1.1-3.4 1.6-5.2 1.2-.6-.1-1.1-.3-1.6-.6h-.3l-2.9.9-.4.1zM7 17.1l2-.6h.2c.3.1.5.3.8.4 1.1.5 2.3.6 3.4.2 1.4-.4 2.5-1.3 3.2-2.5 1.4-2.4.7-5.6-1.7-7.1-2.1-1.3-4.9-1-6.7.8-.7.7-1.2 1.6-1.4 2.6-.3 1.4-.1 2.8.7 3.9.1.2.1.5 0 .7-.1.5-.3 1-.5 1.6z" />
+                                            <path class="st1"
+                                              d="M15.3 13.8c0 .5-.3.9-.7 1.1-.4.2-1 .3-1.5.1-.4-.2-.9-.3-1.3-.6-.6-.3-1.1-.7-1.5-1.2-.5-.5-.9-1.1-1.2-1.7-.2-.4-.4-.9-.3-1.4 0-.5.3-1 .7-1.3.1-.1.2-.1.3-.1h.4c.1 0 .2.1.2.2.1.3.2.5.3.8.1.3.1.3.2.5s.1.4 0 .6c-.1.1-.2.3-.3.4-.1.1-.1.2-.1.3.3.5.7 1 1.2 1.4.3.3.7.5 1.1.6.1.1.2.1.3 0l.5-.6c.1-.1.2-.2.3-.1l1.3.7c.1.2.1.3.1.3z" />
+                                          </g>
+                                        </g>
+                                      </g>
+                                    </svg></a>
+                                </div>
+                              </div>
+                            </div>
+                            <p id="required-msg">* Marked fields are required to fill.</p>
+                            <div class="wpcf7 no-js" id="wpcf7-f172-p207-o1" lang="en-US" dir="ltr">
+                              <form class="wpcf7-form init" id="contactForm" method="post" accept-charset="UTF-8">
+                                <div id="errorMessage" class="alert alert-danger alert-dismissible fade" role="alert">
+                                  Error sending message. Please try again later.
+                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                </div>
+
+                                <div id="successMessage" class="alert alert-success alert-dismissible fade" role="alert">
+                                    Your message has been sent successfully.
+                                    <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                                </div>
+                                <div class="row">
+                                  <div class="col-md-6">
+                                    <div class="input-group">
+                                      <p><label for="full-name">full Name <sup>*</sup></label><span class="wpcf7-form-control-wrap" data-name="full-name"><input size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required input-group"
+                                            id="fullName" name="fullName" required aria-required="true" aria-invalid="false" placeholder="Your Full Name" value="" type="text" /></span>
+                                      </p>
+                                    </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                    <div class="input-group">
+                                      <p><label for="email">Email <sup>*</sup></label><span class="wpcf7-form-control-wrap" data-name="email"><input size="40"
+                                            class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email input-group" aria-required="true" aria-invalid="false" placeholder="Your email adress" value=""
+                                            type="email" id="email" name="email" required /></span>
+                                      </p>
+                                    </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                    <div class="input-group">
+                                      <p><label for="phone-number">Telegram <span>(optional)</span></label><span class="wpcf7-form-control-wrap" data-name="telegram"><input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number input-group"
+                                            aria-invalid="false" placeholder="Your telergam account" value="" type="text" id="telegram" name="telegram" /></span>
+                                      </p>
+                                    </div>
+                                  </div>
+                                  <div class="col-md-6">
+                                    <div class="input-group">
+                                      <p><label for="phone-number">Whatsapp <span>(optional)</span></label><span class="wpcf7-form-control-wrap" data-name="whatsapp"><input class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number input-group"
+                                            aria-invalid="false" placeholder="Your whatsapp number" value="" type="text" id="whatsapp" name="whatsapp" /></span>
+                                      </p>
+                                    </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                    <div class="input-group">
+                                      <p><label for="message">message</label><span class="wpcf7-form-control-wrap" data-name="message"><textarea cols="40" rows="2" class="wpcf7-form-control wpcf7-textarea input-group"
+                                            aria-invalid="false" placeholder="Write your message here ..." id="message" name="message"></textarea></span>
+                                      </p>
+                                    </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                      <div class="input-group">
+                                               <div class="g-recaptcha" data-sitekey="6Lek6WAnAAAAAPMOQZQajs_vT97Wj-Zn_wPICcRY"></div>
+                                           </div>
+                                  </div>
+                                  <div class="col-md-12">
+                                    <div class="submit-btn-wrap">
+                                      <p><button class="theme-btn" type="submit" name="submit" id="submitBtn">Send message</button></p>
+                                    </div>
+                                  </div>
+                                </div>
+                                <div id="formResult"></div>
+                              </form>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="/assets/js/bootstrap.bundle.min.js" id="bootstrap-bundle-js"></script>
+  <script src="/assets/js/owl.carousel.js" id="owl-carousel-js"></script>
+  <script src="/assets/js/gsap.min.js" id="gsap-js"></script>
+  <script src="/assets/js/ScrollTrigger.min.js" id="ScrollTrigger-js"></script>
+  <script src="/assets/js/ScrollToPlugin.min.js" id="ScrollToPlugin-js"></script>
+  <script src="/assets/js/lightbox.min.js" id="lightbox-js"></script>
+  <script src="/assets/js/magicmouse-2.0.0.cdn.min.js" id="lightbox-js"></script>
+  <script src="/assets/js/main.js" id="main-js"></script>
+  <script>
+      $(document).ready(function() {
+
+        function hideAlert(a) {
+          setTimeout(function() {
+            a.removeClass("show");
+          }, 3000);
+        }
+
+
+          $("#contactForm").submit(function(event) {
+              event.preventDefault();
+
+              var formData = $(this).serialize();
+
+              // Проверка Google reCAPTCHA
+              var recaptchaResponse = grecaptcha.getResponse();
+              if (!recaptchaResponse) {
+                  // Показываем пропадающую подсказку с ошибкой
+                  $("#errorMessage").addClass("show");
+                  hideAlert($('.alert'));
+                  return;
+              }
+
+              $.ajax({
+                  type: "POST",
+                  url: "/process_form.php",
+                  data: formData + "&g-recaptcha-response=" + recaptchaResponse,
+                  success: function(response) {
+
+                      if (response === "success") {
+                          // Показываем пропадающую подсказку об успешной отправке
+                          $("#successMessage").addClass("show");
+                          // Скрываем пропадающую подсказку с ошибкой (если она отображена)
+                          $("#errorMessage").removeClass("show");
+                          $("#contactForm")[0].reset();
+                          hideAlert($('.alert'));
+                      } else {
+                          // Показываем пропадающую подсказку с ошибкой
+                          $("#errorMessage").addClass("show");
+                          hideAlert($('.alert'));
+                      }
+                  }
+              });
+          });
+
+
+      });
+      </script>
+      <style media="screen">
+        form .alert {
+          position: fixed;
+          right: -500px;
+          bottom: 20px;
+          max-width: 300px;
+          font-size: 14px;
+          transition: .25s linear;
+        }
+        form .alert.show  {
+          right: 20px;
+        }
+      </style>
+</body>
+
+</html>

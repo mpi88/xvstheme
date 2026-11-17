@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteCond %{HTTPS} off [OR]
+RewriteCond %{HTTP_HOST} ^www\.xvstheme\.com$ [NC]
+RewriteRule ^(.*)$ https://xvstheme.com/$1 [L,R=301]
